@@ -4,7 +4,7 @@ public class Student {
     String name;
     String email;
     String password;
-    double score;
+    double score, correct, incorrect, attempted;
 
     public Student(String name, String email, String password) {
         this.name = name;
@@ -42,5 +42,29 @@ public class Student {
 
     public void setScore(double score) {
         this.score = score;
+    }
+
+    public double getCorrect() {
+        return correct;
+    }
+
+    public void setCorrect(double correct) {
+        this.correct = correct;
+    }
+
+    public double getIncorrect() {
+        return incorrect;
+    }
+
+    public void setIncorrect(double incorrect) {
+        this.incorrect = incorrect;
+    }
+
+    public double getAttempted() {
+        return attempted;
+    }
+
+    public void setAttempted(double attempted) {
+        this.attempted = attempted;
     }
 }
