@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "533461267141",
+    "firebase_url": "https://cutting-edge-quiz-cd35d.firebaseio.com",
+    "project_id": "cutting-edge-quiz-cd35d",
+    "storage_bucket": "cutting-edge-quiz-cd35d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533461267141:android:dc918d286f281edf",
+        "android_client_info": {
+          "package_name": "com.kvikesh800gmail.relativlayoutjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533461267141-1l8qellp2aiicprjhhbti4ucd48urk16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kvikesh800gmail.relativlayoutjava",
+            "certificate_hash": "625648dac172210f5fda78be3e0a1b9844ca7ec2"
+          }
+        },
+        {
+          "client_id": "533461267141-15freqpe13a29he8u36l0duh5p3eas6m.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "533461267141-15freqpe13a29he8u36l0duh5p3eas6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb8-WCyK1vqmO--e2JJcMaqLVUjo4mUxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533461267141-15freqpe13a29he8u36l0duh5p3eas6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
